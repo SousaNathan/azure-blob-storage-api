@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azure-blob-storage-api.props" />
+</Project>
